@@ -9,8 +9,8 @@ This repository provides a hands-on implementation of **Support Vector Machines 
 
 This repo complements my blog series on Support Vector Machines:
 
-[Blog 3: Support Vector Classifier – From Linear Boundaries to Optimal Margins](https://abaanpathan.in/blog/support-vector-classifier)
-[Blog 4: Support Vector Regressor & Kernel Tricks – Predicting Beyond Linear](https://abaanpathan.in/blog/support-vector-regressor)
+- [Blog 3: Support Vector Classifier – From Linear Boundaries to Optimal Margins](https://abaanpathan.in/blog/support-vector-classifier)
+- [Blog 4: Support Vector Regressor & Kernel Tricks – Predicting Beyond Linear](https://abaanpathan.in/blog/support-vector-regressor)
 
 
 
